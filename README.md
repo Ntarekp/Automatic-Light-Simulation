@@ -2,7 +2,7 @@
 
 A cyberpunk-themed MQTT-based light control system simulation with virtual IoT device.
 
-![CyberLight Interface Preview]([https://via.placeholder.com/800x500.png?text=CyberLight+Control+Interface](https://github.com/Ntarekp/Automatic-Light-Simulation/blob/main/preview/Screenshot%202025-03-14%20115019.png))
+![CyberLight Interface Preview](https://raw.githubusercontent.com/Ntarekp/Automatic-Light-Simulation/main/preview/Screenshot%202025-03-14%20115019.png)
 
 ## 🚀 Features
 - **Cyberpunk Web Interface** with neon aesthetics
